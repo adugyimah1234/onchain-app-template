@@ -1,4 +1,5 @@
-'use client';
+// SignupButton.tsx
+
 import WalletWrapper from './WalletWrapper';
 
 export default function SignupButton() {
